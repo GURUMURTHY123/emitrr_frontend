@@ -1,0 +1,44 @@
+.register-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #31363f;
+}
+
+.register-form {
+  font-family: Roboto;
+  display: flex;
+  flex-direction: column;
+}
+
+.input-container {
+  margin-bottom: 2rem;
+}
+
+.label-element {
+  color: #eeeeee;
+  font-size: 1.3rem;
+  margin-right: 0.5rem;
+}
+
+.input-element {
+  background-color: #eeeeee;
+  border: none;
+  outline: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  color: #31363f;
+}
+
+.register-btn {
+  align-self: center;
+  background-color: #76abae;
+  color: #31363f;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1.2rem;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+}

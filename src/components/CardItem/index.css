@@ -1,0 +1,9 @@
+.card-item {
+  background-color: #eeeeee;
+  height: 350px;
+  width: 250px;
+  margin-right: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

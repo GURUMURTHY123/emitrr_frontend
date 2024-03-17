@@ -1,0 +1,45 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #31363f;
+  padding: 0.5rem 1rem;
+}
+
+.profile-container {
+  display: flex;
+  align-items: center;
+}
+
+.user-name {
+  color: #76abae;
+  font-family: "Robotot";
+  font-size: 1.5rem;
+  margin-left: 0.5rem;
+}
+
+.score-container {
+  display: flex;
+  align-items: center;
+}
+
+.score {
+  font-size: 1.3rem;
+  color: #eeeeee;
+  margin-right: 1rem;
+}
+
+.score span {
+  font-weight: bold;
+  color: #76abae;
+}
+
+.leader-board-btn {
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  font-family: Roboto;
+  color: #31363f;
+  margin-right: 1rem;
+  border: none;
+}
